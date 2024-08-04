@@ -1,2 +1,3 @@
 add_subdirectory(TwoNumberSum)
-add_subdirectory("Validate Subsequence")
+add_subdirectory(ValidateSubSequence)
+add_subdirectory(SortedSquaredArray)
