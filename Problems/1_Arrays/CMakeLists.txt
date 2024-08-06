@@ -1,4 +1,4 @@
-add_subdirectory(TwoNumberSum)
-add_subdirectory(ValidateSubSequence)
-add_subdirectory(SortedSquaredArray)
-add_subdirectory(TournamentWinner)
+add_subdirectory(1_TwoNumberSum)
+add_subdirectory(2_ValidateSubSequence)
+add_subdirectory(3_SortedSquaredArray)
+add_subdirectory(4_TournamentWinner)
