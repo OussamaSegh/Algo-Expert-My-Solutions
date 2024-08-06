@@ -2,10 +2,7 @@
 include_directories(${CMAKE_CURRENT_SOURCE_DIR})
 
 # Test executable
-add_executable(TwoNumberSum test.cpp)
+add_executable(Arrays.TournamentWinner test.cpp)
 
 # Link test executable against Google Test and pthread libraries
-target_link_libraries(TwoNumberSum gtest gtest_main pthread)
-
-# Add tests to CTest
-add_test(NAME TwoNumberSumTest COMMAND TwoNumberSum)
+target_link_libraries(Arrays.TournamentWinner gtest gtest_main pthread)
