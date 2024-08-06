@@ -1,3 +1,4 @@
 add_subdirectory(TwoNumberSum)
 add_subdirectory(ValidateSubSequence)
 add_subdirectory(SortedSquaredArray)
+add_subdirectory(TournamentWinner)

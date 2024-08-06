@@ -12,8 +12,6 @@ bool isValidSubsequence(vector<int> array, vector<int> sequence) {
   auto pArray = array.begin();
   auto pSequence = sequence.begin();
 
-  int nSequenceCounter = 0;
-
   while (pArray != array.end()) {
       if (*pSequence == *pArray) {
         pSequence++;
